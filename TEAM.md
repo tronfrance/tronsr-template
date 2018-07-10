@@ -1,6 +1,6 @@
 ## Fondateurs
 
-Christian:
+Name : [Christian]
 
 Age : 36 ans.
 Diplomé en électronique, informatique industrielle et commerce international.  
@@ -11,7 +11,7 @@ Passionné par les nouvelles technologies, la Blockchain, le monde de l'IoT.
 
 
 
-Julien:
+Name : [Christian]
 
 Age : 31 ans.
 Diplomé d'un Master of Sciences en Electronique et Informatique.
