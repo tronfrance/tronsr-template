@@ -1,6 +1,7 @@
 ## Fondateurs
 
-Name : [Christian]
+Nom : [Christian]
+Role : [Responsable communication]
 
 Age : 36 ans.
 Diplomé en électronique, informatique industrielle et commerce international.  
@@ -10,8 +11,8 @@ Diplomé en électronique, informatique industrielle et commerce international.
 Passionné par les nouvelles technologies, la Blockchain, le monde de l'IoT.
 
 
-Name: [name]
-Role: [role]
+Nom: [Julien]
+Role: [Responsable technique]
 
 Age : 31 ans.
 Diplomé d'un Master of Sciences en Electronique et Informatique.
