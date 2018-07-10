@@ -1,3 +1,5 @@
+******Logo et bannière en cous de création******
+
 Tron-France vise à être le référent de la communauté Tron en France.
 Nous souhaitons fournir une alternative aux candidats traditionnels.
 
