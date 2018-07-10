@@ -1,14 +1,21 @@
-## Founder
+## Fondateurs
 
-Name: [name]
-Role: [role]
+Christian:
 
-## Team Member 1
+Age : 36 ans.
+Diplomé en électronique, informatique industrielle et commerce international.  
 
-Name: [name]
-Role: [role]
+15 années d’experience dans l’IT et l’informatique industrielle à des postes à responsabilité chez les leaders du marché.  
 
-## Team Member 2
+Passionné par les nouvelles technologies, la Blockchain, le monde de l'IoT.
 
-Name: [name]
-Role: [role]
+
+
+Julien:
+
+Age : 31 ans.
+Diplomé d'un Master of Sciences en Electronique et Informatique.
+
+10 années d’experience en programmation et gestion de projet en informatique industrielle.
+
+Réaliste et curieux, je suis intrigué par les possibilités offertes par la blockchain, le monde de l'IoT, et bien sûr par Tron.
