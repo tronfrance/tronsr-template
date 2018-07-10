@@ -1,4 +1,4 @@
-Ajout à venir prochainement :-)
+Plus de détails à venir prochainement :-)
 
 Ce qu'on peut déjà vous dire avec certitude, c'est que 95% de nos reward seront reversés à nos électeurs chaque dimanche.
 
