@@ -10,8 +10,8 @@ Diplomé en électronique, informatique industrielle et commerce international.
 Passionné par les nouvelles technologies, la Blockchain, le monde de l'IoT.
 
 
-
-Name : [Christian]
+Name: [name]
+Role: [role]
 
 Age : 31 ans.
 Diplomé d'un Master of Sciences en Electronique et Informatique.
