@@ -1,5 +1,5 @@
 Le matériel informatique est notre matériel personnel.
-A cela s'ajout les frais d'élétricité et de gestion des deux réseaus Internet distincts (Orange et SFR).
+A cela s'ajout les frais d'élétricité et de gestion des deux réseaux Internet distincts (Orange et SFR).
 
 Nous prévoyons de fournir un détail précis de notre budget sur notre site web avant la fin Août.
 
