@@ -8,4 +8,4 @@ Tron-France est localisé à Paris. Et notre équipe est composée de deux perso
 Tron-France is based in Paris. We are a team of two people.
 
 Nous reversons 95% de nos reward à nos électeurs tous les jours!
-We redistribute 95% of our rewards to our voters everyday !
+We redistribute 95% of our rewards to our voters everyday!
