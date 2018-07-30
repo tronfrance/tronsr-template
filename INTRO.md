@@ -2,7 +2,7 @@ Tron-France vise à être le référent de la communauté Tron en France.
 Nous souhaitons fournir une alternative aux candidats traditionnels.
 
 Tron-France aims to become the Tron reference in France. 
-We wish to be a credbile alternative to the other candidates.
+We wish to be a trustworthy alternative to other well-known candidates.
 
 Tron-France est localisé à Paris. Et notre équipe est composée de deux personnes.
 Tron-France is based in Paris. We are a team of two people.
