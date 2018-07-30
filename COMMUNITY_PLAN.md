@@ -1,5 +1,9 @@
-Plus de détails à venir prochainement :-)
+Tous les jours nous reversons 95% de nos rewards à nos électeurs.
 
-Ce qu'on peut déjà vous dire avec certitude, c'est que 95% de nos reward seront reversés à nos électeurs chaque dimanche.
+Un script compte et vérifie les votes reçus à chaque cycle, puis détermine les rewards pour chacun en fonction de sa participation.
+
+A 18h30 UTC, tous les jours, l'Airdrop démarre automatiquement.
+
+L'Airdrop est intégralement automatisé.
 
 Les 5% restants seront utilisés afin d'optimiser notre installation et de tenir les coûts fixes de gestion.
